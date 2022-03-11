@@ -12,7 +12,7 @@
     <!-- Removed "header" class with header semantic element header -->
     <header>
         <h1>Hori<span class="seo">seo</span>n</h1>
-        <!-- Replaced nested div with nav semantic element -->
+        <!-- Replaced div with nav semantic element -->
         <nav>
             <ul>
                 <li>
@@ -27,10 +27,13 @@
             </ul>
         </nav>
     </header>
+    
+    <!-- Removed "div" with header semantic element section -->
+    <section class="hero"></section>
 
-    <div class="hero"></div>
     <div class="content">
-        <div class="search-engine-optimization">
+        <!-- Replaced class with id -->
+        <div id="search-engine-optimization" class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
             <h2>Search Engine Optimization</h2>
             <p>
@@ -52,7 +55,9 @@
             </p>
         </div>
     </div>
-    <div class="benefits">
+    
+
+    <section class="benefits">
         <div class="benefit-lead">
             <h3>Lead Generation</h3>
             <img src="./assets/images/lead-generation.png" />
