@@ -9,7 +9,7 @@
 [Screenshot](#screenshot-of-home-page)
 ## Description 
 
-This week I received a ticket to refactor code provided  by the marketing company Horiseon to make their website more accessible to visitors. I included descriptive alt atributes and improved the semantic structure of the index.html page. I also followed the Scout Rule by correting broken links, properly commenting the CSS file, and consolidating and organizing CSS selectors and properties to follow semantic structure. 
+This week I received a ticket to refactor code provided  by the marketing company Horiseon to make their website more accessible to visitors. I included descriptive alt attributes and improved the semantic structure of the index.html page. I also followed the Scout Rule by correting broken links, properly commenting the CSS file, and consolidating and organizing CSS selectors and properties to follow semantic structure. 
 
 ## Built With 
 
